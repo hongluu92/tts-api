@@ -1,0 +1,396 @@
+timothée,Ti mô thi
+samr,Ét a mờ rờ
+apk,A pê ka
+icpc,I xê pê xê
+gündogan,Gun đô gan
+iot,Ai ô ti
+l'equipe,Lơ quýp
+it,Ai ti
+spa,Sờ pa
+ocw,O xê vê kép
+cska,Xê ét ca a
+a-z,A đến dét
+tto,Tê tê o
+evnspc,E vê nờ ét pê xê
+vba,Vê bê a
+bz4x,Bê zét bốn ích
+ita,I tê a
+cia,Xê i a
+ava,A vê a
+uva,U vê a
+espn,E ét pê en
+cctv,Xê xê ti vi
+atp,A tê pê
+sab,Ét a bê
+gex,Gờ e ích
+vre,Vê rờ e
+cii,Xê i i
+ssi,Ét ét i
+eps,E pê ét
+vcci,Vê xê xê i
+pyn,Pê i nờ
+ml,Ma chin lơn ning
+atc,A tê xê
+amd,A mờ đê
+ota,Ô tê a
+h'hen niê,Hờ hen ni ê
+ron95,Ron chín mươi lăm
+ron92,Ron chín mươi hai
+g7,Gờ bảy
+g20,Gờ hai mươi
+là b.,Là bê
+là c.,Là xê
+là d.,Là đê
+mỹ lan,mỹ lan
+2d,Hai đê
+3d,Ba đê
+4d,Bốn đê
+5d,Năm đê
+đt,Đê tê
+ounce,Ao xơ
+new york,niu dóc
+italy,i ta ly
+ec,E xê
+rocket,rốc két
+fpt,ép bê tê
+shtp,ét hát tê bê
+index,in đếch
+epi,E pê i
+nca,N xê a
+ev,E vê
+oled,Ô lét
+yeah1,Dia oăn
+fm,Ép em
+acb,A xê bê
+donga bank,Đông á banh
+seabank,Si banh
+oceanbank,Âu sừn banh
+abbank,A bê banh
+nasbank,Nờ a ét banh
+gp.bank,Gờ pê banh
+msb,Mờ ét bê
+techcombank,Tếch com banh
+kienlongbank,Kiên long banh
+nam a bank,Nam á banh
+ncb,Nờ xê bê
+vpbank,Vê pê banh
+shb,Ét hát bê
+hd bank,Hát đê banh
+pnb,Pê nờ bê
+ocb,O xê bê
+mb,Mờ bê
+pvcombank,Pê vê banh
+vib,Vê i bê
+scb,Ét xê bê
+saigonbank,Sài gòn banh
+sacombank,Sa com banh
+vietabank,Việt á banh
+baovietbank,Bảo việt banh
+vietbank,Việt banh
+pgbank,Pê gờ banh
+eximbank,E xim banh
+lvb,Lờ vê bê
+tienphongbank,Tiên phong banh
+vietcombank,Việt com banh
+vcb,Vê xê bê
+mdb,Mờ đê bê
+cb,Xê bê
+vietinbank,Việt tin banh
+bidv,Bi ai đi vi 
+agribank,A gờ ri banh
+mhb,Mờ hát bê
+anzb,A nờ dét bê
+db,Đê bê
+citibank,Ci ti banh
+hsbc,Hát ét bê xê 
+shbvn,Ét hát bê vê nờ
+hlbvn,Hát lờ bê vê nờ
+smbc,Ét mờ bê xê
+cba,Xê bê a
+ivb,I vê bê
+vrb,Vê rờ bê
+usd,Đô la mỹ
+eur,Ơ rô
+jpy,Yên nhật
+gbp,Bảng anh
+vnd,Việt nam đồng
+cad,Đô la canada
+chf,Phờ-răng thụy sỹ
+aud,Đô la úc
+cny,Nhân dân tệ
+unc,u nờ xê
+edition,e đi sừn
+samsung,sam sung
+afghanistan,Áp-ga-nít-tan	
+albania,An-ba-ni	
+algeria,An-giê-ri	
+andorra,An-do-ra	
+angola,Ăng-gô-la	
+antigua,An-ti-gua
+barbuda,Bác-bu-đa	
+argentina,Ác-hen-ti-na	
+armenia,Ác-mê-ni-a	
+australia,Ô-xờ-trây-li-a	
+austria,Áo	
+azerbaijan,A-déc-bai-dan	
+bahamas,Ba-ha-mát	
+bahrain,Ba-ranh	
+bangladesh,Băng-la-đét	
+barbados,Bác-ba-đốt	
+belarus,Bê-la-rút
+belgium,Bỉ	
+belize,Bê-li-xê	
+benin,Bê-nanh	
+bhutan,Bu-tan	
+bolivia,Bô-li-vi-a	
+bosnia,Bô-xnia héc-dê-gô-vi-na
+herzegovina,héc-dê-gô-vi-na		
+botswana,Bốt-xoa-na	
+brazil,Bra-xin	
+brunei,Bru-nây	
+bulgaria,Bun-ga-ri	
+burkina faso,Buốc-ki-na pha-xô	
+burundi,Bu-run-đi	
+cape verde,Cáp-ve	
+campuchia,Cam-pu-chia	
+cameroon,Ca-mơ-run	
+canada,Ca-na-đa	
+chad,Sát	
+chile,Chi-lê	
+colombia,Cô-lôm-bi-a	
+comoros,Cô-mo		
+costa rica,Cô-xta ri-ca	
+côte,Cốt
+d'ivoire,đi-voa	
+croatia,Cờ-roác-ti-a	
+cuba,Cu-ba	
+czech,Séc
+congo,Công-gô	
+djibouti,Gi-bu-ti	
+dominica,Đô-mi-ni-ca-na	
+dominican,Đô-mi-ni-ca-na	
+ecuador,Ê-cu-a-đo	
+egypt,Ai cập	
+el salvador,En xan-va-đo	
+guinea,Ghi-xê	
+eritrea,Ê-ri-tơ-rê-a	
+estonia,E-xtô-ni-a	
+eswatini,Ét-goa-ti-ni
+ethiopia,Ê-ti-ô-pi-a	
+fiji,Phi-gi	
+finland,Phần lan	
+gabon,Ga-bông	
+gambia,Găm-bi-a
+gruzia,Giê-óc-gi-a	
+ghana,Gha-na	
+grenada,Grê-na-đa	
+guatemala,Goa-tê-ma-la	
+guinea,Ghi-nê	
+guinea-bissau,Ghi-nê bít-xao	
+guyana,Guy-a-na	
+haiti,Ha-i-ti	
+honduras,Hôn-đu-rát	
+hungary,Hung-ga-ri
+iceland,Ai-xơ-len	
+india,Ấn độ	
+indonesia,In-đô-nê-si-a	
+iran,I-ran	
+iraq,I-rắc	
+ireland,Ai-len	
+israel,I-xờ-ra-en	
+jamaica,Gia-mai-ca	
+japan,Nhật bản
+jordan,Gióc-đan	
+kazakhstan,Ca-dắc-xtan	
+kenya,Kê-ni-a	
+kiribati,Ki-ri-ba-ti	
+kuwait,Cô-oét	
+kyrgyzstan,Cư-rơ-gư-dơ-xtan	
+ukraine,U-cờ-rai-na
+latvia,Lát-vi-a	
+liban,Lebanonlesotho,Lê-xô-thô	
+liberia,Li-bê-ri-a	
+libya,Li bia	
+liechtenstein,Lít-ten-xơ-tên
+litva,Lít-va
+luxembourg,Lúc-xăm-bua	
+madagascar,Ma-đa-gát-xca	
+malawi,Ma-la-uy	
+malaysia,Ma-lai-xi-a	
+maldives,Man-đi-vơ	
+mali,Ma-li	
+malta,Man-ta	
+marshall,Mác-san	
+mauritania,Mô-ri-ta-ni	
+mauritius,Mô-ri-xơ	
+mexico,Mê-hi-cô	
+micronesia,Mi-crô-nê-di-a	
+monaco,Mô-na-cô	
+mongolia,Mông-gô-li-a	
+montenegro,Môn-tê-nê-grô	
+maroc,Ma-rốc	
+mozambique,Mô-dăm-bích	
+myanmar,Mi-an-ma	
+namibia,Nam-mi-bi-a	
+nauru,Nau-ru	
+nepal,Nê-pan	
+new zealand,Niu di-lân	
+nicaragua,Ni-ca-ra-goa	
+niger,Ni-giê	
+nigeria,Ni-giê-ri-a	
+macedonia, ma-xê-đô-ni-a	
+nauy,Na uy	
+oman,Ô-man	
+pakistan,Pa-ki-xtan	
+palau,Pa-lau	
+panama,Pa-na-ma	
+papua new guinea,Pa-pua niu ghi-nê	
+paraguay,Pa-ra-goay	
+peru,Pê-ru	
+philippines,Phi-líp-pin	
+poland,Ba lan	
+qatar,Ca-ta	
+korea,Kô-re-a
+moldova,Môn-đô-va	
+romania,Ru-ma-ni	
+rwanda,Ru-an-đa	
+samoa,Xa-moa	
+san marino,Xan ma-ri-nô	
+são tomé and príncipe,Sao-tao-me và pờ-rin-cai
+saudi arabia,Ả rập xê út	
+senegal,Xê-nê-gan	
+serbia,Xéc-bi	
+seychelles,Xây-sen	
+singapore,Xin-ga-po	
+slovakia,Xlô-va-kia	
+slovenia,Xlô-vê-nia	
+solomon, sô-lô-môn	
+somalia,Xô-ma-li	
+south africa,Nam phi		
+sudan,Xu đăng	
+spain,Tây ban nha	
+sri lanca,Xri lan-ca	
+sudan,Xu đăng	
+surinam,Xu-ri-nam	
+sweden,Thụy điển	
+switzerland,Thụy sỹ	
+syria,Xi-ri
+atacms,A tê a xê mờ ét
+tajikistan,Ta-di-ki-xtan	
+tanzania,Tan-da-ni-a	
+thailand,Thái lan	
+timor-leste,Đông ti-mo	
+togo,Tô-gô	
+tonga,Tôn-ga	
+tunisia,Tuy-ni-di		
+turkmenistan,Tuốc-mê-ni-xtan	
+tuvalu,Tu-va-lu	
+uganda,U-gan-đa	
+ukraina,U-cờ-rai-na	
+uruguay,U-ru-guay	
+uzbekistan,U-dơ-bê-ki-xtan	
+vanuatu,Va-nu-a-tu	
+venezuela,Vê-nê-du-ê-la	
+vatican,Va-ti-can
+yemen,Y-ê-men	
+zambia,Dăm-bi-a	
+zimbabwe,Dim-ba-bu-ê
+emmanuel,Em ma niu ồ
+macron,Mác ron
+elysee,E li dê
+macron,Mác ron
+iphone,Ai phôn
+apple,Áp pồ
+pixel,Pích xeo
+google,Gu gờ
+galaxy s,Ga la xi ét
+elon,I lông
+musk,Mút
+monde,Mông đơ
+wistron,Goai sờ từn
+Vivien,Vi vi ừn
+massot,Ma xót
+tac economics,Tác e co nơ mích
+wef,Vê kép e ép
+davos,Đa vốt
+ashwini,Át xờ guy ni
+vaishnaw,Vai xờ no
+budapest,Bu đa pét
+nato,Na tô
+stockholm,Sờ tốc hôm
+washington,Oa sinh tơn
+california mỹ,Ca li phóc ni a mỹ
+openai,Âu pừn ây ai
+chatgpt,Chát di bi ti
+lpu,Lờ pê u
+scholz,Sôn
+boris,Bô rít
+pistorius,Pít to ri ớt
+berlin,Béc lin
+scholz,Sôn
+donald trump,Đô nan trăm
+haley,Ha li
+michigan,Mi chi gan
+vnexpress,Vi en ích sờ pờ rét 
+sjc,Ét di xi
+doji,Đô di
+snapdragon,Sờ náp đờ ra gừn
+qualcomm,Quan com
+internet,In tơ nét
+ceo,Xê e ô
+jensen,Gien xừn
+nvidia,En vi đi a
+microsoft,Mai cờ rô xóp
+wb,Vê kép bê
+kiev,Ki ép
+ebrd,e bê rờ đê
+eib,e i bê
+nikki,Ních ki
+donald,Đô nan
+trump,Trăm
+idaho,I đa hô
+missouri,Mít xâu ri
+roe,Râu
+carolina,Ca rô li na
+liz,Lít
+cheney,Chơ ni
+nachimo,Na chi mô
+riya,Ri a
+kattady,Cát ta đi
+sydney,Xít ni
+an,An
+joe,Giâu
+biden,Bi đen
+toyota,Tô y ô ta
+fortuner,Pho tun nơ
+chip,Chíp
+chip,Chíp
+bloomberg,Bờ lum bớc
+billionaires,Bi li ừn ne
+canberra,Can bê ra
+bill,Bin
+gates,Ghết
+e5,I năm
+cme,Xi em i
+fedwatch,Phe goát ch
+fed,Phét
+imf,Im phờ
+wgc,Vê kép gờ xê
+fort,Phót
+knox,Cờ nóc
+pboc,Pờ búc
+bitcoin,Bít coi
+lseg,Eo xéc
+etf,I
+melbourne,Men bơn
+belgorod,Beo gô rót
+kursk,Cớt
+vladimir,Vờ la đi mia
+putin,Pu tin
+halving,Han vinh
+block,Bờ lốc
+id,Ai đi
+facebook,Phây búc
+pop-up,Póp ắp
+email,I mêu
+quito,Ki tô
